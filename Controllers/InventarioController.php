@@ -6,7 +6,7 @@ namespace Controller;
 
 use Models\Producto;
 
-class InventarioController extends Controller
+class InventarioController
 {
     private $producto;
 
