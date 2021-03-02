@@ -1,4 +1,4 @@
-##Aplicación simple de inventario
+## Aplicación simple de inventario
 
 ---
 
